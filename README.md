@@ -1,7 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Rana;Software+Engineer+%7C+Full-Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Rana;Software+Engineer+%7C+Full-Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Rohit15504?label=Followers&style=social" />
